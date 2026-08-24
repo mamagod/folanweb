@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Deutschland">
+  <defs><clipPath id="de-clip"><circle cx="48" cy="48" r="32"/></clipPath></defs>
+  <circle cx="48" cy="50" r="38" fill="#000" opacity=".12"/>
+  <circle cx="48" cy="48" r="38" fill="#fff" stroke="#C75B12" stroke-width="4"/>
+  <g clip-path="url(#de-clip)">
+    <rect x="16" y="16" width="64" height="21.34" fill="#111"/>
+    <rect x="16" y="37.33" width="64" height="21.34" fill="#DD1E2F"/>
+    <rect x="16" y="58.67" width="64" height="21.33" fill="#F3C300"/>
+  </g>
+</svg>
